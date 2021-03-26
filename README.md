@@ -21,7 +21,7 @@ by creating these arrays, we were able to increase our tickerVolumes, set the ti
 
 ### Summary: 
 
-1. Advantages and disadvantages of refactoring code?
+1. Advantages and disadvantages of refactoring code:
 - Some advantage of refactoring code include faster run times, more versatility in editing and applying the code in new scenarios, and condensed code which will be easier to edit for future use.
 - A disadvantage of refactoring code would be the time required to refactor the original code. The time it takes to refactor may not be worth the effort for the advantages gained.
 
