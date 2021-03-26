@@ -16,7 +16,9 @@ Shown below are the images of the results and run times for the 2017 module code
 
 by creating these arrays, we were able to increase our tickerVolumes, set the tickerStartingPrices and tickerEndingPrices by using the tickerIndex. For example, we used `tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(i, 8).Value` to increase the ticker volumes. This allowed us to gather the data required to create our table with one loop through the worksheets.
 
-(inset images of data and run times here)
+<img width="284" alt="Module_Code_2017" src="https://user-images.githubusercontent.com/78509850/112691003-e919e300-8e39-11eb-8181-eff19664b88c.png"> <img width="284" alt="Module_Code_2018" src="https://user-images.githubusercontent.com/78509850/112691004-e9b27980-8e39-11eb-852a-b84127987d6e.png">
+
+<img width="284" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/78509850/112691005-e9b27980-8e39-11eb-8dd2-a9e9508f995a.png"> <img width="284" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/78509850/112691006-e9b27980-8e39-11eb-9d31-958ca50fe1c1.png">
 
 
 ### Summary: 
